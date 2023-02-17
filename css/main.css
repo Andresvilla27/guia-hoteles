@@ -1,0 +1,31 @@
+.jumbotron {
+    background-color: rgb(61, 188, 220);
+    color: black;
+    margin-top: 55px;
+    text-align: center;
+}
+
+a.navbar-brand {
+    margin-left: 10px;
+    font-size: larger;
+}
+.cardhotel {
+    flex: 1 200px;
+    margin-top: 10px;
+}
+.btn-reserva {
+    width: 100%;
+    border-radius: 0px;
+}
+footer {
+    padding: 10px 10px 0 10px;
+    background-color: rgb(61, 188, 220);
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.footer-address-icon{
+    padding-right: 10px;
+}
+footer a{
+    color: slategray;
+}
